@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::altteam_redirect_to_sitemap"
+msgid "[Alt-Team] Redirect to sitemap"
+msgstr "[Alt-Team] Redirect to sitemap"
+
+msgctxt "Addons::description::altteam_redirect_to_sitemap"
+msgid "Redirects customers to a sitemap automatically instead of showing 404 error. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+msgstr "Redirects customers to a sitemap automatically instead of showing 404 error. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+
+msgctxt "SettingsOptions::altteam_redirect_to_sitemap::license_number"
+msgid "License number"
+msgstr "License number"
